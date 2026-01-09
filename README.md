@@ -19,9 +19,9 @@ LLM --> Tools --> Evidence --> Analysis/Summary
 ## How to run
 
 ### CLI interface example:
-$ python3 log_agent.py --ask "Triage ./logs and summarize the main issues"
+python3 log_agent.py --ask "Triage ./logs and summarize the main issues"
 
 ### Streamlit UI:
-$ streamlit run app.py
+streamlit run app.py
 
 
